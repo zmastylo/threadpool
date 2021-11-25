@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to simple benchmarking 👋</h1>
+<h1 align="center">Welcome to ThreadPool with status 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/benchmarking" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/benchmarking.svg">
